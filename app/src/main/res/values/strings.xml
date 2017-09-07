@@ -3,4 +3,5 @@
     <string name="startScan">Start scanning</string>
     <string name="stopScan">Stop scanning</string>
     <string name="standardGravity">Standard gravity (m/s2): </string>
+    <string name="sensorNotFound">The sensor was not found</string>
 </resources>
